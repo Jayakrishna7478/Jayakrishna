@@ -6,7 +6,6 @@ I have 4 years of hands-on experience as a DevOps and SRE Engineer, with AWS Dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jayakrishna-pongaluru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jjayakrishna70@gmail.com) 
 
 # 💻 Tech Stack:
-🧰 Tech Stack
 Cloud: AWS
 OS: Linux, Windows
 CI/CD: DevOps, GitHub Actions, Jenkins
